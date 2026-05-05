@@ -14,7 +14,7 @@ public class DemoApplication {
 	
 	@PostConstruct
 	public void init() {
-		logger.info("Demo Application started.slightly changes to check");
+		logger.info("Demo Application started.slightly changes to check 99999");
 	}
 
 	public static void main(String[] args) {
